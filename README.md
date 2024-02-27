@@ -20,5 +20,5 @@
 [<img align="left" alt="[YourName] | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: [https://twitter.com/MouadBouaichaa]
-[instagram]: [https://www.instagram.com/mouadbouaicha/)https://www.instagram.com/mouadbouaicha/]
-[linkedin]: [https://www.linkedin.com/in/mouad-bouaicha-a4aaa0211/]
+[instagram]: [https://www.instagram.com/mouadbouaicha/]
+[linkedin]: [https://www.linkedin.com/in/mouad-bouaicha-a4aaa0211]
